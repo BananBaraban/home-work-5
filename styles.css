@@ -1,0 +1,42 @@
+h1 {
+    color: red;
+}
+
+#ID {
+    color: orange;
+}
+
+.class {
+    color: yellow;
+}
+
+input[type="button"]{
+    color: green;
+}
+
+.nested p span {
+    color: aqua;
+}
+
+.child p{
+    color: blue;
+}
+
+.order li:first-child{
+    color: purple;
+}
+.order li:last-child {
+    color: pink;
+}
+
+ul + h2 {
+    color: blueviolet;
+}
+
+div > p {
+    color: gray;
+}
+
+span {
+    color: greenyellow !important;
+}
